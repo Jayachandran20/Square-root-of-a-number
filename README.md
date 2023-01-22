@@ -34,7 +34,8 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![OUTPUT](squareroot.png)
+![squareroot](https://user-images.githubusercontent.com/118447015/213904585-9bc8a74b-2811-4308-827c-4a1a0eba6ab7.png)
+
 
 
 ## Result:
